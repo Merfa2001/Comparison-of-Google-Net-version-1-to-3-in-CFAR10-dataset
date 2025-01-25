@@ -1,4 +1,4 @@
-# Comparison-of-Google-Net-version-1-to-3-in-CFAR10-dataset
+
 # GoogleNet Versions Comparison (v1, v2, v3) on CIFAR-10
 
 This repository contains implementations and comparisons of GoogleNet (Inception) architectures (v1, v2, and v3) trained on the CIFAR-10 dataset. The project demonstrates the evolution of the Inception architecture and its impact on image classification performance.
